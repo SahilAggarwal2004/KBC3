@@ -773,7 +773,3 @@ if a=='b':
 if a=='a' or a=='c' or a=='d':
     print('INCORRECT ANSWER!!!!!!!!!!!')
     print('you are disqualified, 0 ruppes')
-    
-      
-      
-
