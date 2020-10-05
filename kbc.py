@@ -1,4 +1,5 @@
 import time
+import random
 print('WELCOME IN THE WORLD OF QUESTIONS')
 time.sleep(5)
 print()
